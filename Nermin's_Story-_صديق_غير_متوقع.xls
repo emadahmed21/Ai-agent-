@@ -1,0 +1,215 @@
+﻿<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40" dir="ltr">
+<head><meta charset="UTF-8"><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Nermin's_Story-_صديق_غير_متو</x:Name><x:WorksheetOptions></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head>
+<body style="font-family:Arial,sans-serif;">
+      <h2 style="background:#1e1b4b;color:#ffffff;padding:10px;font-family:Arial,sans-serif;">
+        1. Project Overview & Character Identity Reference Prompts
+      </h2>
+      <table border="1" style="border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:12px;margin-bottom:24px;">
+        <tr style="background:#4f46e5;color:#ffffff;font-weight:bold;">
+          <th style="padding:8px;border:1px solid #cbd5e1;">Property / Field</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;" colspan="7">Details & Master Prompt</th>
+        </tr>
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f8fafc;">Project Title</td>
+          <td style="padding:8px;" colspan="7">Nermin's Story: صديق غير متوقع</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f8fafc;">Character & Specs</td>
+          <td style="padding:8px;" colspan="7">Character: Nermin | Style: 3d | Video Size: Vertical 9:16 | Total Scenes: 2</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#ecfdf5;">0. Master Identity Lock Prompt</td>
+          <td style="padding:8px;font-family:monospace;" colspan="7">Master 3D Identity Lock: Stylized 3D character, highly detailed facial anatomy, expressive eyes, subsurface scattering skin shader, signature tailored outfit with micro-textures, cinematic studio rim lighting, neutral studio backdrop, octane render aesthetic, 8k resolution, Unreal Engine 5 look. --ar 16:9 --stylize 250 Subject: Nermin. Nermin is a stylized 3d character with well-proportioned facial geometry, large expressive eyes, arched eyebrows, and balanced agile build. Visual details: Stylized 3D animated girl with fair skin, light freckles, big brown eyes, and brown hair styled in a high bun with loose wavy tendrils framing her face.. Wearing Oversized light-blue denim jacket, black and white striped t-shirt, dark cropped wide-leg trousers, multi-colored retro sneakers, and a black crossbody bag.. Consistent character sheet proportions, studio lighting, 8k render.</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f5f3ff;">1. Face Portrait Lock Prompt (1:1)</td>
+          <td style="padding:8px;font-family:monospace;" colspan="7">Master Character Portrait Reference: Ultra-detailed 3D Pixar-style close-up portrait of Nermin, عيون واسعة معبرة ذات بريق واضح, clean studio key light, neutral calm expression, solid neutral gray studio background, 8k resolution, cinematic look. --ar 1:1 --stylize 250</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#eef2ff;">2. Full-Body & Outfit Lock Prompt (9:16)</td>
+          <td style="padding:8px;font-family:monospace;" colspan="7">Master Character Full-Body Reference: Full length standing turn-around of Nermin, wearing Oversized light-blue denim jacket, black and white striped t-shirt, dark cropped wide-leg trousers, multi-colored retro sneakers, and a black crossbody bag., stylized proportions, cinematic rim lighting, full body shot from head to toe, clean studio neutral backdrop, 8k render. --ar 9:16</td>
+        </tr>
+      </table>
+    
+      <h2 style="background:#312e81;color:#ffffff;padding:10px;font-family:Arial,sans-serif;">
+        2. All Scenes — Keyframe Image Prompts & 10s Video Animation Prompts (2 Scenes)
+      </h2>
+      <table border="1" style="border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:12px;margin-bottom:24px;">
+        <tr style="background:#4338ca;color:#ffffff;font-weight:bold;">
+          <th style="padding:8px;border:1px solid #cbd5e1;">Scene #</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Scene Title</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Scene Summary</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Camera Move</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Location & Lighting</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Timeline (0-10s)</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🖼️ Keyframe Image Prompt</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🎬 10s Video Animation Prompt</th>
+        </tr>
+    
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f8fafc;">Scene 1</td>
+          <td style="padding:8px;font-weight:bold;">Act 1: صديق غير متوقع</td>
+          <td style="padding:8px;">صديق غير متوقع: يطارد سنجاب مرح حذاء نرمين الرياضي، مما يخلق مطاردة طريفة وممتعة عبر الممر.</td>
+          <td style="padding:8px;">dolly_in</td>
+          <td style="padding:8px;">Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) (Cinematic rim lighting with soft ambient occlusion)</td>
+          <td style="padding:8px;">[] تظهر الشخصية Nermin في بداية المشهد 1 بوضعية ثبات واستقرار حركي وتتنفس بهدوء مع حركة كاميرا (اقتراب سينمائي بطيء (Dolly In)) | [] تلتفت الشخصية Nermin بفضول وتتفاعل مباشرة مع الأداة المحورية المميزة للقصة وتستكشف ما يحدث داخل المكان | [] ترفع الشخصية Nermin الأداة نحو مسار الضوء لترى انعكاس الطاقة مع ثبات ملامح الوجه والنمش | [] تخطو الشخصية Nermin خطوة محورية وتبدأ بالتحرك الحاسم لاستكشاف مصدر التغيير | [] تنهي الشخصية Nermin الحركة عند الثانية 08.5 متجهة بسلاسة لتسليم كادر المشهد التالي</td>
+          <td style="padding:8px;font-family:monospace;background:#faf5ff;"></td>
+          <td style="padding:8px;font-family:monospace;background:#eef2ff;"></td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f8fafc;">Scene 2</td>
+          <td style="padding:8px;font-weight:bold;">Act 2: صديق غير متوقع</td>
+          <td style="padding:8px;">صديق غير متوقع: يطارد سنجاب مرح حذاء نرمين الرياضي، مما يخلق مطاردة طريفة وممتعة عبر الممر.</td>
+          <td style="padding:8px;">lateral_tracking</td>
+          <td style="padding:8px;">Contemporary urban park with sunlit paved walkways and lush greenery. (concluding medium framing, continuous spatial environment) (Cinematic rim lighting with soft ambient occlusion)</td>
+          <td style="padding:8px;">[] تكمل الشخصية Nermin حركتها بانسيابية من المشهد السابق وتستقر خطواتها في المشهد 2 مع (تتبع جانبي موازٍ للحركة (Lateral Tracking)) | [] تندفع الشخصية Nermin بخطوات سريعة للأمام مع تمايل الجاكيت بحركة فيزيائية نشطة | [] تنحني الشخصية Nermin قليلاً لتفادي التغير الفيزيائي وتفحص مسار الطاقة في المكان بتركيز حاد | [] تثبت الشخصية Nermin خطواتها وتمد يدها بثقة متناسقة مع فيزياء المكان للسيطرة على الموقف | [] تختتم الشخصية Nermin المشهد عند الثانية 08.5 بنظرة هادئة ومباشرة نحو الكاميرا لكسر الجدار الرابع</td>
+          <td style="padding:8px;font-family:monospace;background:#faf5ff;"></td>
+          <td style="padding:8px;font-family:monospace;background:#eef2ff;"></td>
+        </tr>
+      </table>
+      <h2 style="background:#065f46;color:#ffffff;padding:10px;font-family:Arial,sans-serif;">
+        3. Viral Poster Thumbnail & Static Social Image Posts
+      </h2>
+      <table border="1" style="border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:12px;margin-bottom:24px;">
+        <tr style="background:#059669;color:#ffffff;font-weight:bold;">
+          <th style="padding:8px;border:1px solid #cbd5e1;">Post / Image Type</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;" colspan="2">Title / Visual Hook</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;" colspan="5">Full Image Generation Prompt</th>
+        </tr>
+        <tr style="background:#ecfdf5;">
+          <td style="padding:8px;font-weight:bold;">🔥 Main Viral Poster / Thumbnail</td>
+          <td style="padding:8px;font-weight:bold;" colspan="2">What Did Nermin Just Discover?!</td>
+          <td style="padding:8px;font-family:monospace;" colspan="5">High-impact Pinterest &amp; Shorts viral hook poster #1 (Vertical 9:16 - 1080x1920 px). Aesthetic &amp; Art Direction: Premium 3D Pixar-style digital character render, vibrant studio illumination, rich cinematic contrast ratio. Action Freeze &amp; Subject: Nermin [Nermin, Stylized 3D animated girl with fair skin, light freckles, big brown eyes, and brown hair styled in a high bun with loose wavy tendrils framing her face., wearing Oversized light-blue denim jacket, black and white striped t-shirt, dark cropped wide-leg trousers, multi-colored retro sneakers, and a black crossbody bag.], captured in an intense dynamic reaction freeze-frame, interacting with her small dark leather cross-body bag. Expressive wide eyes, gasping mouth, and authentic micro-curiosity focus. Typography &amp; Visual Hook: High-contrast 3D embossed movie poster typography: Primary upper headline reads "NERMIN &amp; THE SECRET TWIST!", lower cinematic tag reads "NERMIN ANIMATED SHORT". Perfectly legible at mobile thumbnail scale. Composition &amp; Depth: Rule-of-thirds visual hierarchy with Nermin positioned dynamically in foreground-midground, dramatic depth-of-field blur on background. Lighting &amp; Environment: Setting is Contemporary urban park with sunlit paved walkways and lush greenery. (concluding medium framing, continuous spatial environment). Golden-hour rim lighting with deep volumetric atmosphere, vivid saturated color pop, zero clipping. Execution Standards: Professional finished promotional movie poster, crisp line definition, exactly one hero character, no stray watermarks or UI elements.</td>
+        </tr>
+    
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f8fafc;">🖼️ Static Image Post — Scene 1</td>
+          <td style="padding:8px;" colspan="2">Act 1: صديق غير متوقع</td>
+          <td style="padding:8px;font-family:monospace;" colspan="5">Animation frame of Nermin. Nermin features: Nermin, Stylized 3D animated girl with fair skin, light freckles, big brown eyes, and brown hair styled in a high bun with loose wavy tendrils framing her face., wearing Oversized light-blue denim jacket, black and white striped t-shirt, dark cropped wide-leg trousers, multi-colored retro sneakers, and a black crossbody bag.. Action: Nermin establishes opening composition in Scene 1 with physical weight settling and natural breathing (Slow Stabilized Dolly In). Expression: alert focus and presence. Style: premium 3D animation with rounded stylised forms, physically based shading, soft global illumination and shallow cinematic depth of field. Lighting: Cinematic rim lighting with soft ambient occlusion. Background: Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment). Single character, clean composition, high quality, no text, no watermark, no UI elements. Platform: Pinterest (2:3). Dimensions: 1000x1500 px.</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#f8fafc;">🖼️ Static Image Post — Scene 2</td>
+          <td style="padding:8px;" colspan="2">Act 2: صديق غير متوقع</td>
+          <td style="padding:8px;font-family:monospace;" colspan="5">Animation frame of Nermin. Nermin features: Nermin, Stylized 3D animated girl with fair skin, light freckles, big brown eyes, and brown hair styled in a high bun with loose wavy tendrils framing her face., wearing Oversized light-blue denim jacket, black and white striped t-shirt, dark cropped wide-leg trousers, multi-colored retro sneakers, and a black crossbody bag.. Action: Nermin establishes opening composition in Scene 1 with physical weight settling and natural breathing (Slow Stabilized Dolly In). Expression: alert focus and presence. Style: premium 3D animation with rounded stylised forms, physically based shading, soft global illumination and shallow cinematic depth of field. Lighting: Cinematic rim lighting with soft ambient occlusion. Background: Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment). Single character, clean composition, high quality, no text, no watermark, no UI elements. Platform: Instagram Feed (4:5). Dimensions: 1080x1350 px.</td>
+        </tr>
+      </table>
+      <h2 style="background:#701a75;color:#ffffff;padding:10px;font-family:Arial,sans-serif;">
+        4. Multi-Platform Publishing & SEO Metadata (7 Platforms)
+      </h2>
+      <table border="1" style="border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:12px;">
+        <tr style="background:#86198f;color:#ffffff;font-weight:bold;">
+          <th style="padding:8px;border:1px solid #cbd5e1;">Platform</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Aspect Ratio</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Viral Title</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;" colspan="2">Full Caption & Description</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Hashtags</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">SEO Keywords</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">Platform Cover Prompt</th>
+        </tr>
+    
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">1. TikTok</td>
+          <td style="padding:8px;">9:16 Vertical</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع</td>
+          <td style="padding:8px;" colspan="2">Watch Nermin in "Nermin's Story: صديق غير متوقع"! What happens next? Drop a comment below! #Nermin #animation #aianimation #storytelling #CreatedWithAI</td>
+          <td style="padding:8px;color:#6d28d9;">#Nermin #animation #aianimation #storytelling #viral #CreatedWithAI</td>
+          <td style="padding:8px;">Nermin, 3d animation, ai animation, animated shorts, viral storytelling</td>
+          <td style="padding:8px;font-family:monospace;">Vertical 9:16 TikTok cover: Nermin in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) with surprised expression, upper third reserved for "What Did Nermin Just Discover?!", 8k.</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">2. YouTube Shorts</td>
+          <td style="padding:8px;">9:16 Vertical</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع | Nermin #Shorts</td>
+          <td style="padding:8px;" colspan="2">Can Nermin beat the challenge in time?<br/>0:00 — Opening Hook<br/>0:04 — The Twist<br/>0:08 — Final Climax<br/>#Shorts #Nermin #animation #aianimation</td>
+          <td style="padding:8px;color:#6d28d9;">#Shorts #Nermin #animation #aianimation #CreatedWithAI</td>
+          <td style="padding:8px;">Nermin, youtube shorts, viral shorts, 3d cartoon, faceless channel</td>
+          <td style="padding:8px;font-family:monospace;">High-contrast YouTube Shorts cover (9:16): Nermin in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) with hook text "What Did Nermin Just Discover?!".</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">3. Instagram Reels</td>
+          <td style="padding:8px;">9:16 Vertical</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع</td>
+          <td style="padding:8px;" colspan="2">Nermin's Story: صديق غير متوقع ✨ Save &amp; share this Reel! #Nermin #reels #animation #3dart #digitalstory</td>
+          <td style="padding:8px;color:#6d28d9;">#Nermin #reels #instagramreels #animation #3dart #digitalstory</td>
+          <td style="padding:8px;">Nermin, instagram reels, cinematic animation, 3d character</td>
+          <td style="padding:8px;font-family:monospace;">Instagram Reels cover (9:16) with 1:1 center-safe framing of Nermin inside Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment).</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">4. YouTube Long-Form (16:9)</td>
+          <td style="padding:8px;">16:9 Horizontal</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع — Full Nermin Story (2 Scenes)</td>
+          <td style="padding:8px;" colspan="2">Enjoy the full animated story "Nermin's Story: صديق غير متوقع" featuring Nermin (2 sequential scenes). Don't forget to Like &amp; Subscribe!</td>
+          <td style="padding:8px;color:#6d28d9;">#Nermin #youtubeanimation #3dshortfilm #animatedstory</td>
+          <td style="padding:8px;">Nermin, 3d short film, full animated story, pixar style animation</td>
+          <td style="padding:8px;font-family:monospace;">Widescreen YouTube Thumbnail (16:9 - 1920x1080): Nermin on one side with bold 3D text "What Did Nermin Just Discover?!" in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment).</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">5. Facebook Reels</td>
+          <td style="padding:8px;">9:16 Vertical</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع</td>
+          <td style="padding:8px;" colspan="2">Today's story with Nermin: Nermin's Story: صديق غير متوقع 🎬 Tell us what you think in the comments! #Nermin #fbReels #animation</td>
+          <td style="padding:8px;color:#6d28d9;">#Nermin #facebookreels #animatedstories #viralvideo</td>
+          <td style="padding:8px;">Nermin, facebook reels, family friendly animation, 3d video</td>
+          <td style="padding:8px;font-family:monospace;">Vibrant Facebook Reels cover (9:16) showing Nermin in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) with title "What Did Nermin Just Discover?!".</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">6. Snapchat Spotlight</td>
+          <td style="padding:8px;">9:16 Vertical</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع</td>
+          <td style="padding:8px;" colspan="2">Wait for the ending! Nermin in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) 🔥 #Nermin #snapchatspotlight #animation</td>
+          <td style="padding:8px;color:#6d28d9;">#Nermin #snapchatspotlight #viral #3danimation</td>
+          <td style="padding:8px;">Nermin, snapchat spotlight, trending shorts, 3d animation</td>
+          <td style="padding:8px;font-family:monospace;">Vertical 9:16 Snapchat Spotlight cover: expressive close-up of Nermin inside Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment).</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;background:#fdf4ff;">7. Pinterest Idea Pin</td>
+          <td style="padding:8px;">9:16 Vertical Pin</td>
+          <td style="padding:8px;font-weight:bold;">Nermin's Story: صديق غير متوقع</td>
+          <td style="padding:8px;" colspan="2">3D Character design &amp; story "Nermin's Story: صديق غير متوقع" featuring Nermin. Save this Pin for creative inspiration!</td>
+          <td style="padding:8px;color:#6d28d9;">#Nermin #characterdesign #3dart #conceptart #animationinspiration</td>
+          <td style="padding:8px;">Nermin, 3d character design, digital art, cinematic poster, pinterest pin</td>
+          <td style="padding:8px;font-family:monospace;">Aesthetic vertical Pinterest Pin (9:16) showcasing Nermin lighting and design inside Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) with title "Nermin's Story: صديق غير متوقع".</td>
+        </tr>
+      </table>
+      <h2 style="background:#0f172a;color:#ffffff;padding:10px;font-family:Arial,sans-serif;margin-top:24px;">
+        5. 4-Platforms Studio Prompts & DOM Mapping (Artistly + CloneVoice + VideoExpress + TalkingPhotos)
+      </h2>
+      <table border="1" style="border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:12px;">
+        <tr style="background:#1e293b;color:#ffffff;font-weight:bold;">
+          <th style="padding:8px;border:1px solid #cbd5e1;">Scene Cloud ID</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🎨 Artistly v6.5: First Frame (00:00s)</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🎨 Artistly v6.5: Last Frame (00:10s)</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🎙️ CloneVoice v4.0: Script (#textarea-audio-script)</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🔊 CloneVoice: SFX & Music Prompts</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;" colspan="2">🎬 VideoExpress v3.5: Multi-Shot Prompt (textarea#opt_video_prompt)</th>
+          <th style="padding:8px;border:1px solid #cbd5e1;">🗣️ TalkingPhotos & FFmpeg</th>
+        </tr>
+    
+        <tr>
+          <td style="padding:8px;font-weight:bold;font-family:monospace;background:#f8fafc;">CH-01_VID0001_S01</td>
+          <td style="padding:8px;font-family:monospace;background:#fdf2f8;">[CH-01_VID0001_S01_FIRST_IMG] (/ai/image-designer-v6): Nermin (CH01-CHR-01) opening frame (تظهر الشخصية Nermin في بداية المشهد 1 بوضعية ثبات واستقرار حركي وتتنفس بهدوء مع حركة كاميرا (اقتراب سينمائي بطيء (Dolly In))) in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment), camera dolly_in, 8k.</td>
+          <td style="padding:8px;font-family:monospace;background:#faf5ff;">[CH-01_VID0001_S01_LAST_IMG] (/ai/image-designer-v6): Nermin (CH01-CHR-01) ending frame (ترفع الشخصية Nermin الأداة نحو مسار الضوء لترى انعكاس الطاقة مع ثبات ملامح الوجه والنمش) in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) for seamless continuity, 8k.</td>
+          <td style="padding:8px;background:#ecfdf5;">[ID: CH-01_VID0001_S01_VOC-01] "Look closely at what is happening right in front of us! (صديق غير متوقع: يطارد سنجاب مرح حذاء نرمين الرياضي، مما يخلق مطاردة طريفة وممتعة عبر الممر.)"</td>
+          <td style="padding:8px;">SFX (/design-sound/create): Dynamic foley in Contemporary urban park with sunlit paved walkways and lush greenery. (establishing wide framing, continuous spatial environment) | Music (/music/create): Orchestral score (-14 LUFS)</td>
+          <td style="padding:8px;font-family:monospace;background:#eef2ff;" colspan="2">[Multi-Shot #opt_video_prompt] [00s-02s]: تظهر الشخصية Nermin في بداية المشهد 1 بوضعية ثبات واستقرار حركي وتتنفس بهدوء مع حركة كاميرا (اقتراب سينمائي بطيء (Dolly In)) (dolly_in) | [02s-05s]: تلتفت الشخصية Nermin بفضول وتتفاعل مباشرة مع الأداة المحورية المميزة للقصة وتستكشف ما يحدث داخل المكان | [05s-08s]: Emotional micro-climax | [08s-10s]: ترفع الشخصية Nermin الأداة نحو مسار الضوء لترى انعكاس الطاقة مع ثبات ملامح الوجه والنمش (Settle on Last Frame)</td>
+          <td style="padding:8px;font-family:monospace;">TalkingPhotos (#/create-video LipSync) + FFmpeg: 01_Raw_Clips/CH-01_VID0001_S01.mp4</td>
+        </tr>
+      
+        <tr>
+          <td style="padding:8px;font-weight:bold;font-family:monospace;background:#f8fafc;">CH-01_VID0001_S02</td>
+          <td style="padding:8px;font-family:monospace;background:#fdf2f8;">[CH-01_VID0001_S02_FIRST_IMG] (/ai/image-designer-v6): Nermin (CH01-CHR-01) opening frame (تكمل الشخصية Nermin حركتها بانسيابية من المشهد السابق وتستقر خطواتها في المشهد 2 مع (تتبع جانبي موازٍ للحركة (Lateral Tracking))) in Contemporary urban park with sunlit paved walkways and lush greenery. (concluding medium framing, continuous spatial environment), camera lateral_tracking, 8k.</td>
+          <td style="padding:8px;font-family:monospace;background:#faf5ff;">[CH-01_VID0001_S02_LAST_IMG] (/ai/image-designer-v6): Nermin (CH01-CHR-01) ending frame (تنحني الشخصية Nermin قليلاً لتفادي التغير الفيزيائي وتفحص مسار الطاقة في المكان بتركيز حاد) in Contemporary urban park with sunlit paved walkways and lush greenery. (concluding medium framing, continuous spatial environment) for seamless continuity, 8k.</td>
+          <td style="padding:8px;background:#ecfdf5;">[ID: CH-01_VID0001_S02_VOC-01] "Look closely at what is happening right in front of us! (صديق غير متوقع: يطارد سنجاب مرح حذاء نرمين الرياضي، مما يخلق مطاردة طريفة وممتعة عبر الممر.)"</td>
+          <td style="padding:8px;">SFX (/design-sound/create): Dynamic foley in Contemporary urban park with sunlit paved walkways and lush greenery. (concluding medium framing, continuous spatial environment) | Music (/music/create): Orchestral score (-14 LUFS)</td>
+          <td style="padding:8px;font-family:monospace;background:#eef2ff;" colspan="2">[Multi-Shot #opt_video_prompt] [00s-02s]: تكمل الشخصية Nermin حركتها بانسيابية من المشهد السابق وتستقر خطواتها في المشهد 2 مع (تتبع جانبي موازٍ للحركة (Lateral Tracking)) (lateral_tracking) | [02s-05s]: تندفع الشخصية Nermin بخطوات سريعة للأمام مع تمايل الجاكيت بحركة فيزيائية نشطة | [05s-08s]: Emotional micro-climax | [08s-10s]: تنحني الشخصية Nermin قليلاً لتفادي التغير الفيزيائي وتفحص مسار الطاقة في المكان بتركيز حاد (Settle on Last Frame)</td>
+          <td style="padding:8px;font-family:monospace;">TalkingPhotos (#/create-video LipSync) + FFmpeg: 01_Raw_Clips/CH-01_VID0001_S02.mp4</td>
+        </tr>
+      </table></body></html>
